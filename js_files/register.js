@@ -1,5 +1,5 @@
 async function registerSort() {
-    console.log('In bubbe()');
+    console.log('In Register Sort');
     const ele = document.querySelectorAll(".bar");
     const arr = [];
     for (let i = 0; i < ele.length; i++) {
